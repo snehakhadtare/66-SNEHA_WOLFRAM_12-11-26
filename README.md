@@ -20,7 +20,7 @@
 
 The interactive demonstrations were performed using Wolfram Demonstrations.
 
-**View Documentation PDF:** [Mathematics for AI/ML – Self Learning Topics](./66-SNEHA_WOLFRAM_12-11-26.pdf)
+**View Documentation PDF:** [WOLFRAMS DEMONSTRATION ](./66-SNEHA_WOLFRAM_12-11-26.pdf)
 
 ## Student Details
 
